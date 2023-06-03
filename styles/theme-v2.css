@@ -443,10 +443,11 @@ img.align-center {
   margin-right: auto;
 }
 
-img.figcaption {
-  display: block;
+div.figcaption {
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1em;
+  text-align: center
 }
 
 div.header {
