@@ -437,6 +437,13 @@ img.withBorder {
   padding: 4px;
 }
 
+img.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
 div.header {
   position: absolute;
   z-index: 2;
