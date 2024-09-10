@@ -429,7 +429,10 @@ li ul.outline li.folded:hover {
 }
 
 img {
-  image-rendering: optimize-quality;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 img.withBorder {
